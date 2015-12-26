@@ -1,5 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+## The functions, given a matrix, return the inverse of the matrix by calculating it only once
+## To save computation time, once the inverse of a matrix is evaluated, the result is cached
 
 ## Write a short comment describing this function
 ## The function gets a matrix and stores it in the cache as well as its inverse.
